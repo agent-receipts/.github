@@ -17,16 +17,3 @@ An open protocol for cryptographically signed action receipts — so you can pro
 <picture>
   <img alt="How it works: Authorize → Act → Sign → Link → Audit" src="https://raw.githubusercontent.com/agent-receipts/.github/main/profile/how-it-works.svg">
 </picture>
-
-## Get started
-
-```bash
-# Python
-pip install agent-receipts
-
-# TypeScript
-npm install @agnt-rcpt/sdk-ts
-
-# Go
-go get github.com/agent-receipts/ar/sdk/go
-```
