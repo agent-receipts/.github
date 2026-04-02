@@ -14,10 +14,9 @@ An open protocol for cryptographically signed action receipts — so you can pro
 
 ## How it works
 
-1. An AI agent performs actions through MCP or any tool-use protocol
-2. Each action produces a **signed receipt** (Ed25519) with a canonical hash (RFC 8785 + SHA-256)
-3. Receipts are **hash-chained** — forming a tamper-evident audit trail
-4. Receipts can be stored, queried, verified, and exported
+<picture>
+  <img alt="How it works: Authorize → Act → Sign → Link → Audit" src="profile/how-it-works.svg">
+</picture>
 
 ## Get started
 
