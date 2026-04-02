@@ -4,23 +4,11 @@
 
 An open protocol for cryptographically signed action receipts — so you can prove what an AI agent did, when, and why.
 
-## What's here
-
-Everything lives in a single monorepo: **[agent-receipts/ar](https://github.com/agent-receipts/ar)**
-
-| Directory | Description |
-|-----------|-------------|
-| [`spec/`](https://github.com/agent-receipts/ar/tree/main/spec) | Protocol specification, JSON schemas, canonical action taxonomy |
-| [`sdk/go/`](https://github.com/agent-receipts/ar/tree/main/sdk/go) | Go SDK |
-| [`sdk/ts/`](https://github.com/agent-receipts/ar/tree/main/sdk/ts) | TypeScript SDK |
-| [`sdk/py/`](https://github.com/agent-receipts/ar/tree/main/sdk/py) | Python SDK |
-| [`mcp-proxy/`](https://github.com/agent-receipts/ar/tree/main/mcp-proxy) | MCP proxy — transparent governance + receipt signing for any MCP server |
-| [`site/`](https://github.com/agent-receipts/ar/tree/main/site) | Documentation site |
-
-### Integrations
+## Repos
 
 | Repo | Description |
 |------|-------------|
+| [ar](https://github.com/agent-receipts/ar) | Monorepo — protocol spec, SDKs (Go, TypeScript, Python), MCP proxy, docs site |
 | [openclaw](https://github.com/agent-receipts/openclaw) | Agent Receipts plugin for OpenClaw |
 
 ## How it works
@@ -37,7 +25,7 @@ Everything lives in a single monorepo: **[agent-receipts/ar](https://github.com/
 pip install agent-receipts
 
 # TypeScript
-npm install @agent-receipts/sdk-ts
+npm install @agnt-rcpt/sdk-ts
 
 # Go
 go get github.com/agent-receipts/ar/sdk/go
