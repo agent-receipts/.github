@@ -17,6 +17,12 @@ Everything lives in a single monorepo: **[agent-receipts/ar](https://github.com/
 | [`mcp-proxy/`](https://github.com/agent-receipts/ar/tree/main/mcp-proxy) | MCP proxy — transparent governance + receipt signing for any MCP server |
 | [`site/`](https://github.com/agent-receipts/ar/tree/main/site) | Documentation site |
 
+### Integrations
+
+| Repo | Description |
+|------|-------------|
+| [openclaw](https://github.com/agent-receipts/openclaw) | Agent Receipts plugin for OpenClaw |
+
 ## How it works
 
 1. An AI agent performs actions through MCP or any tool-use protocol
