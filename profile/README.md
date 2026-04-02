@@ -4,13 +4,12 @@
 
 An open protocol for cryptographically signed action receipts — so you can prove what an AI agent did, when, and why.
 
-**[agentreceipts.ai](https://agentreceipts.ai)**
-
 ## Repos
 
-| Repo | Description |
+|  | Description |
 |------|-------------|
-| [ar](https://github.com/agent-receipts/ar) | Monorepo — protocol spec, SDKs (Go, TypeScript, Python), MCP proxy, docs site |
+| [agentreceipts.ai](https://agentreceipts.ai) | Documentation and project site |
+| [ar](https://github.com/agent-receipts/ar) | Monorepo — protocol spec, SDKs (Go, TypeScript, Python), MCP proxy |
 | [openclaw](https://github.com/agent-receipts/openclaw) | Agent Receipts plugin for OpenClaw |
 
 ## How it works
@@ -32,5 +31,3 @@ npm install @agnt-rcpt/sdk-ts
 # Go
 go get github.com/agent-receipts/ar/sdk/go
 ```
-
-Docs at [agentreceipts.ai](https://agentreceipts.ai)
