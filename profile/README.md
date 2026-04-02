@@ -4,6 +4,8 @@
 
 An open protocol for cryptographically signed action receipts — so you can prove what an AI agent did, when, and why.
 
+**[agentreceipts.ai](https://agentreceipts.ai)**
+
 ## Repos
 
 | Repo | Description |
