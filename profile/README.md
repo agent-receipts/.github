@@ -15,7 +15,7 @@ An open protocol for cryptographically signed action receipts — so you can pro
 ## How it works
 
 <picture>
-  <img alt="How it works: Authorize → Act → Sign → Link → Audit" src="profile/how-it-works.svg">
+  <img alt="How it works: Authorize → Act → Sign → Link → Audit" src="https://raw.githubusercontent.com/agent-receipts/.github/main/profile/how-it-works.svg">
 </picture>
 
 ## Get started
