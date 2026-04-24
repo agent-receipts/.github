@@ -11,7 +11,7 @@ An open protocol for cryptographically signed action receipts — so you can pro
 | [agentreceipts.ai](https://agentreceipts.ai) | Documentation and project site |
 | [ar](https://github.com/agent-receipts/ar) | Monorepo — protocol spec, SDKs (Go, TypeScript, Python), MCP proxy |
 | [openclaw](https://github.com/agent-receipts/openclaw) | Agent Receipts plugin for OpenClaw |
-| [dashboard](https://github.com/agent-receipts/dashboard) | Centralized audit dashboard *(coming soon)* |
+| [dashboard](https://github.com/agent-receipts/dashboard) | Centralized audit dashboard |
 
 ## How it works
 
