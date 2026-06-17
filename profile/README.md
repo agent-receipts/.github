@@ -12,6 +12,7 @@ An open protocol for cryptographically signed action receipts — so you can pro
 | [obsigna.dev](https://obsigna.dev) | Tooling docs — SDKs (Go, TypeScript, Python), MCP proxy, hook, and dashboard |
 | [obsigna](https://github.com/agent-receipts/obsigna) | Monorepo — protocol spec, SDKs (Go, TypeScript, Python), the obsigna-daemon, and MCP proxy |
 | [spec](https://github.com/agent-receipts/obsigna/tree/main/spec) | Protocol specification and JSON schemas |
+| [obsigna-examples](https://github.com/agent-receipts/obsigna-examples) | Example projects and usage patterns for obsigna |
 | [openclaw](https://github.com/agent-receipts/openclaw) | Agent Receipts plugin for OpenClaw |
 | [dashboard](https://github.com/agent-receipts/dashboard) | Local read-only web UI for browsing and verifying receipt databases |
 
