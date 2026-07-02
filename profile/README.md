@@ -9,6 +9,7 @@ An open protocol for cryptographically signed action receipts — so you can pro
 |  | Description |
 |------|-------------|
 | [agentreceipts.ai](https://agentreceipts.ai) | Protocol site — specification, reference, and design |
+| [Conformance](https://agentreceipts.ai/conformance/) | Cross-language interop: Go, Python, and TypeScript SDKs verify one another's receipts, CI-enforced |
 | [obsigna.dev](https://obsigna.dev) | Tooling docs — SDKs (Go, TypeScript, Python), MCP proxy, hook, and dashboard |
 | [obsigna](https://github.com/agent-receipts/obsigna) | Monorepo — protocol spec, SDKs (Go, TypeScript, Python), the obsigna-daemon, and MCP proxy |
 | [spec](https://github.com/agent-receipts/obsigna/tree/main/spec) | Protocol specification and JSON schemas |
